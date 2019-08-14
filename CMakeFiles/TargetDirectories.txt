@@ -1,0 +1,3 @@
+/home/kevin/OpenCV/Face_detection/CMakeFiles/edit_cache.dir
+/home/kevin/OpenCV/Face_detection/CMakeFiles/rebuild_cache.dir
+/home/kevin/OpenCV/Face_detection/CMakeFiles/fd.dir
